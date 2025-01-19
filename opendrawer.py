@@ -21,7 +21,7 @@ def speech_to_text():
 	return text
 
 if __name__ == "__main__":
-	speech_to_text()
+	#speech_to_text()
 	user_input = speech_to_text()
 	print(user_input)
 
